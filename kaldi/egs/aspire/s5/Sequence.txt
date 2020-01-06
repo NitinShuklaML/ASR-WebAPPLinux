@@ -1,0 +1,9 @@
+
+Step 1:
+
+--Login to Brightcove (authentication.sh)
+
+
+--Convert the downloaded mp4 to 8khz mono wav file
+
+--Use the 8khz mono wav file to create Transcripts
